@@ -1,2 +1,2 @@
 # portfolio
-This is me Himunashi aapki chaheti 
+Hey there you see my personal portfolio website
